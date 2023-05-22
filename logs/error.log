@@ -1,0 +1,2 @@
+2023/05/22 15:57:09 [error] 52675#0: *2 kevent() reported that connect() failed (61: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9292/", host: "localhost"
+2023/05/22 15:57:09 [error] 52675#0: *2 kevent() reported that connect() failed (61: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9292/", host: "localhost"
